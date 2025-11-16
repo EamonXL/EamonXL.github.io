@@ -26,4 +26,4 @@ Email: eamonxl@hotmail.com
 
 LinkedIn: https://www.linkedin.com/in/eamon-challinor-937277290/
 
-GitHub: 
+GitHub: https://github.com/EamonXL
