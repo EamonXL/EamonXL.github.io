@@ -19,6 +19,7 @@ Technologies Used: Java, Java Swing, Aseprite, Paint.NET, MVC design pattern.
 # Experience
 
 # Resume
+https://github.com/EamonXL/EamonXL.github.io/blob/main/Resume.pdf
 
 # Contact
 Email: eamonxl@hotmail.com
