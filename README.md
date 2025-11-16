@@ -3,6 +3,13 @@
 # Introduction
 ![](https://github.com/EamonXL/EamonXL.github.io/blob/main/S-Stem%20Sat%20415-515pm053%20(4).jpg)
 
+Name: Eamon Challinor
+
+Background: BA in Computer Science
+
+Minors: Global Engagement and Environmental Studies.
+
+Areas of Interest: Game Development, Back-end Development and Bioinformatics.
 # About Me
 
 # Projects 
