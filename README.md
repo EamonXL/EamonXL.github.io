@@ -12,13 +12,13 @@ Minors: Global Engagement and Environmental Studies.
 Areas of Interest: Game Development, Back-end Development and Bioinformatics.
 # About Me
 
+Outdoors Club - Treasurer: Working as an officer of the UWT Outdoors Club to create outdoor related events and help to create an inclusive environment for everyone with any level of skill interested in exploring the outdoors. Additional duties involve creating fundraisers and making funding request for events and promotional materials.
+
 Extracurricular Activities
 
 WICYS (Women in Cybesecurity) - Member: Learning about the world of cybersecurity and participating in resume workshops, industry panels, hacking competitions and additional resources in the field of cybersecurity.
 
 Game Development Club - Member: Developing skills to understand how to develop games in various game engines such as Godot and Unity.
-
-Outdoors Club - Treasurer: 
 
 Hobbies: During my free time, I enjoy hiking, playing/creating video games, tidepooling and rock wall climbing!
 
@@ -30,7 +30,7 @@ Description: Collaborating in a small team of three members to create a file sys
 Key Takeaways: 
 - Understanding how APIs can be integrated and used through learning how to use Maven.
 - Creating a functional application through full stack development with both the back end logic and front end GUI.
-- 
+- Utilizing token credentials to create permissions for gmail functionality.
 
 Challenges: 
 - Adapting to and learning the Agile Software Development lifecycle.
@@ -44,19 +44,38 @@ Technologies Used: Gmail API, SQL, SQLite, Maven, Google Cloud CLI, Java, Draw.i
 Description: Personal project adapting the classic version of minesweeper wiith a level based twist where levels get progressively more difficult with choosing different curses (numbers disappear after a short amount of time, increase the number of bombs, adding a time limit, etc.). Game created using sprite art and map is generated through a custom made tile generation system that utilizes scaled up sprites to represent squares on the minesweeper grid.
 
 Technologies Used: Java, Java Swing, Aseprite, Paint.NET, MVC design pattern.
+
+Key Takeaways:
+- Going through the process of working on a game and all the aspects necessary (sprite work/art, music, game logic, visual feedback & indicators, etc.).
+- Finding ways to solve programming related challenges through troubleshooting and trial/error researching on Google.
+- Continue to practice full stack development through creating the GUI and the back end logic for the game.
+
+Challenges:
+- 
+
 # Skills
 Programming Languages: Java, Python and Javascript.
+
 IDE: IntelliJ and Eclipse.
 
+Technologies: GitHub, Git, Maven, SQL, SQLite, Google CLI, and Godot.
+
+Other Software: Adobe Premiere Pro, Adobe Photoshop, Aseprite, Paint.NET, and Figma.
+
+Work Tools: YouTrack, UML Class Diagrams, and SRS Documents.
 
 # Experience
 1.) ASU SolarSPELL Intern STEM Content Curator
 
-Description: Working in an indisciplinary team of students across different STEM majors to curate open access educational content for the SolarSPELL East Africa offline digital library. Implementing and utilizing an educational GPT to automate metadata tagging workflows 
+Description: Working in an indisciplinary team of students across different STEM majors to curate open access educational content for the SolarSPELL East Africa offline digital library. Implementing and utilizing an educational GPT to automate metadata tagging workflows as well as archiving all curated resources by team members to avoid curating the same resource. Presenting team progress during the all team round table and final presentation as well recieve user feedback (survey data, user data, stakeholder needs) for future curation.
+
+Role: Original team member that helped with the onboarding process for new members of the team and coordinating team based work such as team presentations.
 
 2.) International AI Copyright Independent Research Capstone
 
 Description: Independent research overseen by a faculty mentor focusing on the international legal frameworks 
+
+Role: Independent student researcher.
 
 # Resume
 https://github.com/EamonXL/EamonXL.github.io/blob/main/Resume.pdf
