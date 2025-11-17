@@ -9,6 +9,7 @@ Minors: Global Engagement and Environmental Studies.
 
 Areas of Interest: Game Development, Back-end Development and Bioinformatics.
 # About Me
+Hello my name is Eamon and I an interdisciplinary computer science student at the University of Washington Tacoma. The aspect of computer science that has drawn me towards the field is the sheer level of versatility technology offers when it comes to creating impactful solutions. Even when I first began learning how to code in high school, there was a sense of uniqueness and creativity for what could be created with computer science with my first two projects being an animated app that provides information about different animals and a randomly generated quiz that accessed a table of data about different countries. As a current senior, this philosophy of mine has not changed with my current pursuits revolving around how technology can be used to bring positive impacts to art, biology and the world. Whether it be pursuing an interest in video games or bioinformatics, computer science has served as my canvas and instrument for pursuing interests I have for my academic, professional and personal growth.
 
 Outdoors Club - Treasurer: Working as an officer of the UWT Outdoors Club to create outdoor related events and help to create an inclusive environment for everyone with any level of skill interested in exploring the outdoors. Additional duties involve creating fundraisers and making funding request for events and promotional materials.
 
@@ -71,7 +72,7 @@ Role: Original team member that helped with the onboarding process for new membe
 
 2.) International AI Copyright Independent Research Capstone
 
-Description: Independent research overseen by a faculty mentor focusing on the international legal frameworks 
+Description: Independent research overseen by a faculty mentor responsible for advising and grading final version of the capstone thesis. The paper revolves around international legal frameworks and evaluating how equip they are for handling the sociotechnological changes introduced by large language models with the main being that the issue isn't rooted in a need for transformative law but rather definitive interpretation of existing legal frameworks. Various international case studies are explored for the US, EU and Japan where the rights based copyright framework is present. 
 
 Role: Independent student researcher.
 
