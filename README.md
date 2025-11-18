@@ -13,7 +13,7 @@ Hello my name is Eamon and I an interdisciplinary computer science student at th
 
 Extracurricular Activities
 
-Outdoors Club - Treasurer: Working as an officer of the UWT Outdoors Club to create outdoor related events and help to create an inclusive environment for everyone with any level of skill interested in exploring the outdoors. Additional duties involve creating fundraisers and making funding request for events and promotional materials.****
+Outdoors Club - Treasurer: Working as an officer of the UWT Outdoors Club to create outdoor related events and help to create an inclusive environment for everyone with any level of skill interested in exploring the outdoors. Additional duties involve creating fundraisers and making funding request for events and promotional materials.
 
 WICYS (Women in Cybesecurity) - Member: Learning about the world of cybersecurity and participating in resume workshops, industry panels, hacking competitions and additional resources in the field of cybersecurity.
 
