@@ -2,7 +2,8 @@
 ![](https://raw.githubusercontent.com/EamonXL/EamonXL.github.io/main/S-Stem%20Sat%20415-515pm053%20(4).jpg)
 
 # Contact
-Email: eamonxl@hotmail.com
+**Email:** 
+eamonxl@hotmail.com
 
 **LinkedIn:**  
 [https://www.linkedin.com/in/eamon-challinor-937277290/](https://www.linkedin.com/in/eamon-challinor-937277290/)
