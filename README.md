@@ -4,12 +4,14 @@
 # Contact
 Email: eamonxl@hotmail.com
 
-LinkedIn: https://www.linkedin.com/in/eamon-challinor-937277290/
+**LinkedIn:**  
+[https://www.linkedin.com/in/eamon-challinor-937277290/](https://www.linkedin.com/in/eamon-challinor-937277290/)
 
-GitHub: https://github.com/EamonXL
+**GitHub:**  
+[https://github.com/EamonXL](https://github.com/EamonXL)
 
-# Resume
-https://github.com/EamonXL/EamonXL.github.io/blob/main/Resume.pdf
+**Resume:**  
+[Resume.pdf](https://github.com/EamonXL/EamonXL.github.io/blob/main/Resume.pdf)
 
 # About Me
 
