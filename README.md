@@ -68,6 +68,8 @@ Challenges:
 
 3.) Pokedex
 
+![Screenshot 1](https://raw.githubusercontent.com/EamonXL/EamonXL.github.io/main/Screenshot%202025-12-02%20004144.png)
+
 Description: Personal project to practice the process of creating an interactable user interface through creating a simple version of a Pokedex. The Pokedex contains the original 151 Pokedex and allows for the user to scroll through and choose each of the different Pokemon to learn about their name, types, ID and sprite.
 
 Key Takeaways:
