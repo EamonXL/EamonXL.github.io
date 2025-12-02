@@ -8,6 +8,9 @@ LinkedIn: https://www.linkedin.com/in/eamon-challinor-937277290/
 
 GitHub: https://github.com/EamonXL
 
+# Resume
+https://github.com/EamonXL/EamonXL.github.io/blob/main/Resume.pdf
+
 # About Me
 
 Eamon Challinor
@@ -100,12 +103,4 @@ Description: Independent research overseen by a faculty mentor responsible for a
 
 Role: Independent student researcher.
 
-# Resume
-https://github.com/EamonXL/EamonXL.github.io/blob/main/Resume.pdf
 
-# Contact
-Email: eamonxl@hotmail.com
-
-LinkedIn: https://www.linkedin.com/in/eamon-challinor-937277290/
-
-GitHub: https://github.com/EamonXL
