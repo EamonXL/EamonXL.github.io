@@ -56,6 +56,9 @@ Technologies Used: Gmail API, SQL, SQLite, Maven, Google Cloud CLI, Java, Draw.i
 
 2.) Roguelite Minesweeper
 
+![Screenshot 2](https://raw.githubusercontent.com/EamonXL/EamonXL.github.io/main/Screenshot%202025-12-02%20004318.png)
+
+
 Description: Personal project adapting the classic version of minesweeper wiith a level based twist where levels get progressively more difficult with choosing different curses (numbers disappear after a short amount of time, increase the number of bombs, adding a time limit, etc.). Game created using sprite art and map is generated through a custom made tile generation system that utilizes scaled up sprites to represent squares on the minesweeper grid.
 
 Technologies Used: Java, Java Swing, Aseprite, Paint.NET, MVC design pattern.
