@@ -104,6 +104,8 @@ Work Tools: YouTrack, UML Class Diagrams, and SRS Documents.
 # Experience
 1.) ASU SolarSPELL Intern STEM Content Curator
 
+![Screenshot](https://raw.githubusercontent.com/EamonXL/EamonXL.github.io/main/Screenshot%202025-12-02%20020707.png)
+
 Description: Working in an indisciplinary team of students across different STEM majors to curate open access educational content for the SolarSPELL East Africa offline digital library. Implementing and utilizing an educational GPT to automate metadata tagging workflows as well as archiving all curated resources by team members to avoid curating the same resource. Presenting team progress during the all team round table and final presentation as well recieve user feedback (survey data, user data, stakeholder needs) for future curation.
 
 Role: Original team member that helped with the onboarding process for new members of the team and coordinating team based work such as team presentations.
