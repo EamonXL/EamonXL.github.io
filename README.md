@@ -39,6 +39,9 @@ Hobbies: During my free time, I enjoy hiking, playing/creating video games, tide
 
 Description: Collaborating in a small team of three members to create a file system watcher where a user can assign watchers to specified files that will log updates and will store relevant metadata changes (file name, file path, type of change, etc.) in an SQL database. Gmail API is used to handle credentials for sending logs as emails through the applicatiion with API permissions granted through Google Cloud CLI. Additionally, users are able to export file update logs in the form of a CSV file to a specified file path. Development organized using YouTrack to organize tasks and workflows, Agile Software Development lifecycle for development timeline and creation of relevant documents such as an SRS document, UML class diagrams and User Stories.
 
+![Image](https://raw.githubusercontent.com/EamonXL/EamonXL.github.io/main/image.png)
+
+
 Key Takeaways: 
 - Understanding how APIs can be integrated and used through learning how to use Maven.
 - Creating a functional application through full stack development with both the back end logic and front end GUI.
