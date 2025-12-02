@@ -38,7 +38,7 @@ Hobbies: During my free time, I enjoy hiking, playing/creating video games, tide
 
 
 # Projects 
-1.) File System Watcher
+## **File System Watcher**
 
 Description: Collaborating in a small team of three members to create a file system watcher where a user can assign watchers to specified files that will log updates and will store relevant metadata changes (file name, file path, type of change, etc.) in an SQL database. Gmail API is used to handle credentials for sending logs as emails through the applicatiion with API permissions granted through Google Cloud CLI. Additionally, users are able to export file update logs in the form of a CSV file to a specified file path. Development organized using YouTrack to organize tasks and workflows, Agile Software Development lifecycle for development timeline and creation of relevant documents such as an SRS document, UML class diagrams and User Stories.
 
@@ -57,7 +57,7 @@ Challenges:
 
 Technologies Used: Gmail API, SQL, SQLite, Maven, Google Cloud CLI, Java, Draw.io UML, YouTrack, MVC design pattern, GitHub, Git.
 
-2.) Roguelite Minesweeper
+## **Roguelite Minesweeper**
 
 ![Screenshot 2](https://raw.githubusercontent.com/EamonXL/EamonXL.github.io/main/Screenshot%202025-12-02%20004318.png)
 
@@ -75,7 +75,7 @@ Challenges:
 - Learning how to create a functional game without the use of a game engine.
 - Developing the skills necessary to find solutions independently.
 
-3.) Pokedex
+## **Pokedex**
 
 ![Screenshot 1](https://raw.githubusercontent.com/EamonXL/EamonXL.github.io/main/Screenshot%202025-12-02%20004144.png)
 
@@ -102,7 +102,7 @@ Other Software: Adobe Premiere Pro, Adobe Photoshop, Aseprite, Paint.NET, and Fi
 Work Tools: YouTrack, UML Class Diagrams, and SRS Documents.
 
 # Experience
-1.) ASU SolarSPELL Intern STEM Content Curator
+## **ASU SolarSPELL Intern STEM Content Curator**
 
 ![Screenshot](https://raw.githubusercontent.com/EamonXL/EamonXL.github.io/main/Screenshot%202025-12-02%20020707.png)
 
@@ -110,7 +110,7 @@ Description: Working in an indisciplinary team of students across different STEM
 
 Role: Original team member that helped with the onboarding process for new members of the team and coordinating team based work such as team presentations.
 
-2.) International AI Copyright Independent Research Capstone
+## **International AI Copyright Independent Research Capstone**
 
 Description: Independent research overseen by a faculty mentor responsible for advising and grading final version of the capstone thesis. The paper revolves around international legal frameworks and evaluating how equip they are for handling the sociotechnological changes introduced by large language models with the main being that the issue isn't rooted in a need for transformative law but rather definitive interpretation of existing legal frameworks. Various international case studies are explored for the US, EU and Japan where the rights based copyright framework is present. 
 
