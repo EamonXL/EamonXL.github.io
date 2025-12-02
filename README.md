@@ -1,7 +1,7 @@
 # Welcome To My Porfolio
 ![](https://github.com/EamonXL/EamonXL.github.io/blob/main/S-Stem%20Sat%20415-515pm053%20(4).jpg)
 
-Name: Eamon Challinor
+Eamon Challinor
 
 Background: Bachelors of the Arts in Computer Science
 
@@ -11,7 +11,7 @@ Areas of Interest: Game Development, Back-end Development and Bioinformatics.
 # About Me
 Hello my name is Eamon and I an interdisciplinary computer science student at the University of Washington Tacoma. The aspect of computer science that has drawn me towards the field is the sheer level of versatility technology offers when it comes to creating impactful solutions. Even when I first began learning how to code in high school, there was a sense of uniqueness and creativity for what could be created with computer science with my first two projects being an animated app that provides information about different animals and a randomly generated quiz that accessed a table of data about different countries. As a current senior, this philosophy of mine has not changed with my current pursuits revolving around how technology can be used to bring positive impacts to art, biology and the world. Whether it be pursuing an interest in video games or bioinformatics, computer science has served as my canvas and instrument for pursuing interests I have for my academic, professional and personal growth.
 
-Extracurricular Activities
+**Extracurricular Activities**
 
 Outdoors Club - Treasurer: Working as an officer of the UWT Outdoors Club to create outdoor related events and help to create an inclusive environment for everyone with any level of skill interested in exploring the outdoors. Additional duties involve creating fundraisers and making funding request for events and promotional materials.
 
